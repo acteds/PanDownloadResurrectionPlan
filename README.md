@@ -1,4 +1,5 @@
 # PanDownloadResurrectionPlan
+# 目前出现:账号登录失败，获取 betoken失败解决方案请自行搜索
 # 使用方法
 1.添加hosts:
 ```
